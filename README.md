@@ -1,4 +1,4 @@
-﻿# Hi, I'm Chris 👋
+# Hi, I'm Chris 👋
 
 Web developer in training at the **Developer Akademie**, building full-stack projects with Angular, Supabase, and Python.
 
