@@ -15,9 +15,8 @@
 
 - 🐛 Writing code since 2015, now specializing in Angular & TypeScript
 - 🧙 Currently deepening my skills in Angular, Supabase & Python
-- 📫 Ask me about Angular, Supabase, or Discord bots
+- 📫 Ask me about Angular, Supabase, or Python
 - 🎯 My goals: finish my current software developer training and land a dev job
-- 🤓 Fun fact: my first real project was a Discord bot
 
 ## 🎓 Education
 
