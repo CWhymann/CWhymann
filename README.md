@@ -1,24 +1,36 @@
-# Hi, I'm Chris 👋
+# Hey there, I am Chris 👋
 
-Web developer in training at the **Developer Akademie**, building full-stack projects with Angular, Supabase, and Python.
+📌 I'm a web developer in training from Germany.
+👉 Check my projects here: [cwhymann.github.io](https://cwhymann.github.io/)
 
-## 🚀 Projects
+## I code with
 
-- **[PortfolioPro](https://github.com/CWhymann/portfolio-pro)** – Personal portfolio (Angular), live on GitHub Pages
-- **[Studio Wiemann](https://github.com/CWhymann/studio-wiemann)** – Weekly planning / task tool (Angular + Supabase)
-- **[OwnJoin](https://github.com/CWhymann/ownjoin)** – Kanban-style task management app (Angular)
-- **[DA Bubble](https://github.com/CWhymann/dabubble)** – Slack-style chat app (Angular + Supabase)
-- **[Python Projects](https://github.com/CWhymann/python-projekte)** – Discord bot with moderation, roles, and leveling (Python, discord.py, SQLite)
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,angular,py,git" />
 
-## 🛠️ Tech Stack
+<br>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CWhymann&layout=compact&theme=dark&hide_border=true)
 
-## 📫 Contact
+## About me
 
-[Portfolio](https://cwhymann.github.io/) · [GitHub](https://github.com/CWhymann)
+- 🐛 Creating bugs since 2024
+- 🧙 Learning Angular, Supabase & Python
+- 📫 Ask me about Angular, Supabase, or Discord bots
+- 🎯 My goals: finish the Developer Akademie bootcamp and land a dev job
+- 🤓 Fun fact: my first real project was a Discord bot
+
+## 🎓 Education
+
+![Developer Akademie](https://img.shields.io/badge/Developer%20Akademie-FF4154?style=for-the-badge)
+
+## 📬 How to reach me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cwiemann39@gmail.com)
+
+## Popular repositories
+
+![DA Bubble](https://github-readme-stats.vercel.app/api/pin/?username=CWhymann&repo=dabubble&theme=dark&hide_border=true)
+![Studio Wiemann](https://github-readme-stats.vercel.app/api/pin/?username=CWhymann&repo=studio-wiemann&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CWhymann&show_icons=true&theme=dark&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=CWhymann&theme=dark&hide_border=true)
