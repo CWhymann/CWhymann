@@ -29,9 +29,9 @@
 
 ## Popular repositories
 
+![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=CWhymann&repo=portfolio&theme=dark&hide_border=true)
+![JOIN](https://github-readme-stats.vercel.app/api/pin/?username=CWhymann&repo=join&theme=dark&hide_border=true)
+![OWN JOIN](https://github-readme-stats.vercel.app/api/pin/?username=CWhymann&repo=OWN-JOIN&theme=dark&hide_border=true)
 ![DA Bubble](https://github-readme-stats.vercel.app/api/pin/?username=CWhymann&repo=dabubble&theme=dark&hide_border=true)
 ![Studio Wiemann](https://github-readme-stats.vercel.app/api/pin/?username=CWhymann&repo=studio-wiemann&theme=dark&hide_border=true)
 ![KI LernApp](https://github-readme-stats.vercel.app/api/pin/?username=CWhymann&repo=ki_lernapp&theme=dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CWhymann&show_icons=true&theme=dark&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=CWhymann&theme=dark&hide_border=true)
