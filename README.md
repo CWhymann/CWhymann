@@ -13,10 +13,10 @@
 
 ## About me
 
-- 🐛 Creating bugs since 2024
-- 🧙 Learning Angular, Supabase & Python
+- 🐛 Writing code since 2015, now specializing in Angular & TypeScript
+- 🧙 Currently deepening my skills in Angular, Supabase & Python
 - 📫 Ask me about Angular, Supabase, or Discord bots
-- 🎯 My goals: finish the Developer Akademie bootcamp and land a dev job
+- 🎯 My goals: finish my current software developer training and land a dev job
 - 🤓 Fun fact: my first real project was a Discord bot
 
 ## 🎓 Education
@@ -31,6 +31,7 @@
 
 ![DA Bubble](https://github-readme-stats.vercel.app/api/pin/?username=CWhymann&repo=dabubble&theme=dark&hide_border=true)
 ![Studio Wiemann](https://github-readme-stats.vercel.app/api/pin/?username=CWhymann&repo=studio-wiemann&theme=dark&hide_border=true)
+![KI LernApp](https://github-readme-stats.vercel.app/api/pin/?username=CWhymann&repo=ki_lernapp&theme=dark&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CWhymann&show_icons=true&theme=dark&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=CWhymann&theme=dark&hide_border=true)
