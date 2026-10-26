@@ -1,7 +1,7 @@
 # Hey there, I am Chris 👋
 
 📌 I'm a web developer in training from Germany.
-👉 Check my projects here: [cwhymann.github.io](https://cwhymann.github.io/)
+👉 Check my projects here: [cwhymann.github.io/portfolio](https://cwhymann.github.io/portfolio/)
 
 ## I code with
 
@@ -35,3 +35,6 @@
 ![DA Bubble](https://github-readme-stats.vercel.app/api/pin/?username=CWhymann&repo=dabubble&theme=dark&hide_border=true)
 ![Studio Wiemann](https://github-readme-stats.vercel.app/api/pin/?username=CWhymann&repo=studio-wiemann&theme=dark&hide_border=true)
 ![KI LernApp](https://github-readme-stats.vercel.app/api/pin/?username=CWhymann&repo=ki_lernapp&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CWhymann&show_icons=true&theme=dark&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=CWhymann&theme=dark&hide_border=true)
